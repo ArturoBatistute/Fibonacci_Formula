@@ -1,4 +1,4 @@
-# Fibonacci usando NodeJS
+# Fibonacci usando NodeJS - Codenation
 
 Faça um método `fibonacci` que retorne um `Array` com os primeiro números de série de *Fibonacci* até passar de *350*.
 
